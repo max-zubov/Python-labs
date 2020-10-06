@@ -77,8 +77,14 @@ def main():
     #Reading parameters from json config file. 
     with open("monitor.conf", "r") as conf_file:
         conf = json.load(conf_file)
+
+    #Create new logfile.
+    if conf['output'] == 'json':    new_file = 'log_file.json'
+    else:    new_file = 'log_file.txt'
+    f=open(new_file, "w") 
+    f.close()
     i=0
-        
+       
     while True:
         i=i+1
         if conf['output'] == 'json':
