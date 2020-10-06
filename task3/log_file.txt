@@ -1,0 +1,33 @@
+SNAPSHOT-1: 2020-10-06 10:51:38.819434
+ CPU_Count 2/2
+ CPU_Load_Average (0.0, 0.0, 0.0)
+ CPU_Percent 0.0
+ CPU_Times 477.93
+ Memory 1915580416/260288512
+ Swap 2323640320/3682304
+ Disk_Partitions ['/dev/mapper/cl-root -> /', '/dev/mapper/cl-home -> /home', '/dev/sda1 -> /boot']
+ Disk_IO 17123/103250
+ Network_IO 4764464/240879526
+
+SNAPSHOT-2: 2020-10-06 10:51:48.836043
+ CPU_Count 2/2
+ CPU_Load_Average (0.0, 0.0, 0.0)
+ CPU_Percent 0.1
+ CPU_Times 477.94
+ Memory 1915580416/260308992
+ Swap 2323640320/3682304
+ Disk_Partitions ['/dev/mapper/cl-root -> /', '/dev/mapper/cl-home -> /home', '/dev/sda1 -> /boot']
+ Disk_IO 17123/103250
+ Network_IO 4764918/240879586
+
+SNAPSHOT-3: 2020-10-06 10:51:58.858296
+ CPU_Count 2/2
+ CPU_Load_Average (0.0, 0.0, 0.0)
+ CPU_Percent 0.2
+ CPU_Times 477.94
+ Memory 1915580416/260308992
+ Swap 2323640320/3682304
+ Disk_Partitions ['/dev/mapper/cl-root -> /', '/dev/mapper/cl-home -> /home', '/dev/sda1 -> /boot']
+ Disk_IO 17123/103250
+ Network_IO 4765534/240879974
+
